@@ -1,5 +1,6 @@
 streamlit
 resend
 python-dotenv
-langchain-groq
+langchain
 langchain-core
+langchain-groq
