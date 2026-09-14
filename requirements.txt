@@ -1,0 +1,5 @@
+streamlit
+resend
+python-dotenv
+langchain-groq
+langchain-core
